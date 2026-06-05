@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Eblo.id Tweaker",
-  "version": "1.0",
+  "version": "0.1",
   "content_scripts": [
     {
       "matches": ["https://eblo.id/*"],
