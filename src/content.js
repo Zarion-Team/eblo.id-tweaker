@@ -146,7 +146,7 @@
         </div>
         <div class="eis-modal-footer">
           Кликните по плитке для переключения.<br>Сделано с любовью от Zarion Team ✨💖<br>
-          <a href="https://github.com/iamarheys/eblo.id-tweaker" target="_blank" style="color: #ff85a2; text-decoration: underline; margin-top: 8px; display: inline-block; font-weight: bold;">GitHub 🌸</a>
+          <a href="https://github.com/Zarion-Team/eblo.id-tweaker" target="_blank" style="color: #ff85a2; text-decoration: underline; margin-top: 8px; display: inline-block; font-weight: bold;">GitHub 🌸</a>
         </div>
       </div>
     `;
